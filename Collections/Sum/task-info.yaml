@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sum
 files:
 - name: src/Task.kt
   visible: true
@@ -13,7 +12,7 @@ files:
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: ZsrR5D+2Qh3oAXX7RumJVSl1snw/g9R2IXfOzwi7D7I3kWD17mPOccTx3Cb2KjPi7Q9KuJYF662Guf+3BT9GKNo3GsgOqZal43+azJupobU=
+    encrypted_possible_answer: ZsrR5D+2Qh3oAXX7RumJVSl1snw/g9R2IXfOzwi7D7LG/t4LEhaaNqMzwK9Jbo1VI1Mwej+jJchMMBoJrBxbBA==
   encrypted_text: q10cXDWBPXvzz5GGCEvydQ1/teKbgjLNj5J2grwrhub1+aR0DXx//lpb7waMPmIhJwJOwrJdzHrjFNm4kHFE9UAKBJvKtB0nLmF93QDpY4MZQEscvUqj2fNfUULwXfu80bs1yfd7kOURmtzPP0sQfzIYSHbpOFw1OIWkXywr4v3xkb1zlxxNmAzURgscKbqV
   learner_created: false
 - name: src/Shop.kt

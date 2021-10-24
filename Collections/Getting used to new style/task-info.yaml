@@ -1,5 +1,4 @@
 type: edu
-custom_name: Getting used to new style
 files:
 - name: src/Task.kt
   visible: true
@@ -24,17 +23,17 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: A4BWdJx9J/z5f/pUpXwkgg==
-  - offset: 285
+  - offset: 291
     length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
-      offset: 285
+      offset: 291
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: RKQNDgG8q9giOxGFSf/hh0RQQFeeS/9x24aj5KBkSWJ0FCK2GWFAE2QJi53Gc+Wg
-  encrypted_text: ppAzfDtap+QufHwTVOoMbC+Ez7cEURASkvhToI5YcMZzHekg3QyPwSaXCrNeSBqNWmz6Fxi5Y6gIFBbPr5dMLLNW3BxAlhRO1EM9GSo0fCSpfd843oPbcgQD4Hb+WmfGfrru9WUivQrvaZYjvQP/qLXF1Shx5zlJNlalfGQghtCiDWtimp3BVsckv/82evDkBEZt7lp1tLH/9ZJ6FKlkD8rc62kghHyC4AygoNYE9A2PLycVReCCvd35qhNbNCKip4BngzKrdy3xgzYj4ZPT2KBmE8RTTnTGKvJJKCk4mb8Q+ZIfy3ZtbHeJmE99mdU5JbljEuUoCmDzLA3WwqSbQ/ouGgtAOvZWfhla3f5vUAmYhQ3LlK8UBFLhzzM2uFJRUNSEm8n59s+na06iwPEDng==
+  encrypted_text: ppAzfDtap+QufHwTVOoMbC+Ez7cEURASkvhToI5YcMZzHekg3QyPwSaXCrNeSBqNWmz6Fxi5Y6gIFBbPr5dMLLNW3BxAlhRO1EM9GSo0fCSpfd843oPbcgQD4Hb+WmfGfrru9WUivQrvaZYjvQP/qLXF1Shx5zlJNlalfGQghtCiDWtimp3BVsckv/82evDkBEZt7lp1tLH/9ZJ6FKlkD8rc62kghHyC4AygoNYE9A2PLycVReCCvd35qhNbNCKip4BngzKrdy3xgzYj4ZPT2KBmE8RTTnTGKvJJKCk4mb+ooGhDbC+vwes709MKoxvs/JjGYDIs6VSurChg+TQYK+Ki3EulmW0NIEicoUMTVqcsdWnWjuaArKhZ9Gj/gunDBSmkdVbVUZXBrqLR9qhwrw==
   learner_created: false
 - name: test/tests.kt
   visible: false

@@ -1,17 +1,16 @@
 type: edu
-custom_name: Lambdas
 files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 82
+  - offset: 83
     length: 10
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 82
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 5ZwwLjCo8t6256mPG5/QKg==
   encrypted_text: c+LVc3DNMdfnt557x5buFwXjL7F7ddkTM5OI0h6gxe/kHzWgwfi2pgBaRNPbHlaQkIPvIStEGtonbyC/uOw+5Jny6na7vMJtxiETyz9CLcH0HJ+2St953VYOcLqzCo8A
@@ -23,5 +22,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 29 Sep 2021 17:45:29 UTC
+  time: Sun, 24 Oct 2021 11:57:37 UTC
 record: -1

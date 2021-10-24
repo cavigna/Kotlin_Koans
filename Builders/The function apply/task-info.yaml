@@ -1,5 +1,4 @@
 type: edu
-custom_name: The function apply
 files:
 - name: src/Task.kt
   visible: true

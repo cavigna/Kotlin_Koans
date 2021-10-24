@@ -1,5 +1,4 @@
 type: edu
-custom_name: Rename on import
 files:
 - name: src/Task.kt
   visible: true

@@ -1,5 +1,4 @@
 type: edu
-custom_name: Fold
 files:
 - name: src/Task.kt
   visible: true
@@ -13,7 +12,7 @@ files:
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: 2il8O91MhrtFIeCZT49Ybj3DU3u0mcLra1vTVdr7kRiKgFF6xWellsvn3YLCTCje1RgLo55HLZn/FIDHDpocLprgGaplg9J/qtR54AJb9U214hKYyPNDLnfAlvJ0utLoC7q5BK+a7p5iFXd6mhrTQxVjPu117BN2f5B/6DRn004tvEMYpLePDCUTsQz2+uV62zuGQV00rmwor5p3RBw/Fh+P3md40qMkkshxOpwzbaGqiKUTpbtJCR3lUCOxCFUMSIBYVqDnpsHClmB8S22X0Q==
+    encrypted_possible_answer: 2il8O91MhrtFIeCZT49Ybj3DU3u0mcLra1vTVdr7kRiKgFF6xWellsvn3YLCTCje1RgLo55HLZn/FIDHDpocLprgGaplg9J/qtR54AJb9U214hKYyPNDLnfAlvJ0utLo7ZBMJM7eeC3iwVj0Jhp73SPzrhcjslfX+Taq8mZQHwGBPttGWpdWeu963jgoSrqky957WCTxw3Krar+FZsfS80N7NPzkWDiRAtOy3uLMxcn96hvj08Me8eyPdGpmUA54A8Va+0MKSsSvwzSXKEjo0A==
   - offset: 189
     length: 6
     placeholder_text: TODO()

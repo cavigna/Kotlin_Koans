@@ -1,5 +1,4 @@
 type: edu
-custom_name: Ranges
 files:
 - name: src/Task.kt
   visible: true

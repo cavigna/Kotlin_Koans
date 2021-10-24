@@ -1,5 +1,4 @@
 type: edu
-custom_name: Properties
 files:
 - name: src/Task.kt
   visible: true

@@ -1,5 +1,4 @@
 type: edu
-custom_name: Builders how it works
 files:
 - name: src/Task.kt
   visible: true

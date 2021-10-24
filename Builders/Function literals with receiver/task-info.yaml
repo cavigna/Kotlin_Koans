@@ -1,5 +1,4 @@
 type: edu
-custom_name: Function literals with receiver
 files:
 - name: src/Task.kt
   visible: true

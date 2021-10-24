@@ -13,10 +13,3 @@ class PersonalInfo(val email: String?)
 interface Mailer {
     fun sendMessage(email: String, message: String)
 }
-
-/*
-val email = client?.personalInfo?.email
-if (email != null && message != null) {
-    mailer.sendMessage(email, message)
-}
-*/

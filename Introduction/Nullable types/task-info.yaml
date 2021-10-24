@@ -1,11 +1,10 @@
 type: edu
-custom_name: Nullable types
 files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 83
-    length: 136
+  - offset: 213
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,5 +22,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Mon, 27 Sep 2021 22:24:37 UTC
+  time: Sun, 24 Oct 2021 11:54:08 UTC
 record: -1

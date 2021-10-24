@@ -1,5 +1,4 @@
 type: edu
-custom_name: Smart casts
 files:
 - name: src/Task.kt
   visible: true

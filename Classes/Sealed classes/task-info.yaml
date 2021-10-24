@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sealed classes
 files:
 - name: src/Task.kt
   visible: true
@@ -33,28 +32,28 @@ files:
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: IGx4lnN9ZfqRJI15D7ICbrNM6GK9TkAnqaelovmPaLA=
+    encrypted_possible_answer: sSDd6IW/jyIN5mHgg8ur5oyi1zWIYEzXpjiuH8Mf5mQ=
   - offset: 162
-    length: 4
-    placeholder_text: Expr
+    length: 6
+    placeholder_text: TODO()
     initial_state:
-      length: 4
+      length: 6
       offset: 162
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: U53bhbiXpFFJHSJ5Q5faNQ==
-  - offset: 212
-    length: 4
-    placeholder_text: Expr
+    encrypted_possible_answer: CuldPLB6nkzjojEM8JmcGQ==
+  - offset: 214
+    length: 6
+    placeholder_text: TODO()
     initial_state:
-      length: 4
-      offset: 212
+      length: 6
+      offset: 214
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: U53bhbiXpFFJHSJ5Q5faNQ==
-  encrypted_text: pCKLXRLY1Af8Lc14ZoP4ZYkoIdjW4/j2vZB+TU4NVBPhpEhjqJbM6KJ1BJS/gkmF9QrRKcKvxxyDIalzZTX6QPfpOcxE1kk0t7J6+Tjv6FeTNuh5e4cpJ97CDwfndJKE2PwJtgMsxz+SMxlkIvAEXzz9l2mpdbeY0ScQXs7HTZ/qp2K/ujPi9zSh5Fzncqvir7a7SuvAw6VFELXS3k/YbW53ZTUUZHcZVTDYnuZ49zLM0REn7P1NJMJKKvIe2A4BHcR/TyXQkANQGylJZbhDGqnSGuAJ/Ram2IWjAFBVUeA=
+    encrypted_possible_answer: CuldPLB6nkzjojEM8JmcGQ==
+  encrypted_text: pCKLXRLY1Af8Lc14ZoP4ZYkoIdjW4/j2vZB+TU4NVBPhpEhjqJbM6KJ1BJS/gkmF9QrRKcKvxxyDIalzZTX6QPfpOcxE1kk0t7J6+Tjv6FeTNuh5e4cpJ97CDwfndJKE2PwJtgMsxz+SMxlkIvAEXzz9l2mpdbeY0ScQXs7HTZ/qp2K/ujPi9zSh5Fzncqvir7a7SuvAw6VFELXS3k/YbWBCWPnRQzwKSDCgp7jSkbEc2LtYLFG5WYlPspiXIPjjzZqjuvA9Jq7dO8egpE5mKG/ZcFzEPNl9q9Wqq8PUZww=
   learner_created: false
 - name: test/Tests.kt
   visible: false

@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sequences
 files:
 - name: src/Task.kt
   visible: true
@@ -13,7 +12,7 @@ files:
     initialized_from_dependency: false
     selected: false
     status: Unchecked
-    encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNiBaIgN2qHDgmLruCtxOIxoNRLiogg5EspiXvF5rwhhSPcpbQ/q39Ev/cPREN5L8Va9V3IRzYCpaDC90FY+pEXH8qYQOhohljTd0LjpO/DHGqmxo/fVFdrZT5a9FSaUqnKDdExduG6/aEC6Cu4B9cVinlZD9WeRiMuA2yJovzTPKf2o3ADWr+ACb8IrM4tDpt
+    encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNiBaIgN2qHDgmLruCtxOIxoNRLiogg5EspiXvF5rwhhSPcpbQ/q39Ev/cPREN5L8Va9V3IRzYCpaDC90FY+pEXH8qYQOhohljTd0LjpO/DHGqmxo/fVFdrZT5a9FSaUqnKDdExduG6/aEC6Cu4B9cVgLZ9zWQ/rEeJxW0mVxXKWsY/9MfQCqtfnB5iDwWgTWJgeruCkBj5wSGuk5eSeX2xA==
   - offset: 393
     length: 6
     placeholder_text: TODO()
